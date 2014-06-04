@@ -1,3 +1,5 @@
+![Preview](http://i.imgur.com/2FZ7rGm.jpg)
+
 Sketch-Messages
 ===============
 
