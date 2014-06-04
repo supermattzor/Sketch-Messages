@@ -16,3 +16,4 @@ Known Issues
 4. Window shadow is off
 5. Right side of menu bar is empty
 6. Hipsum sucks
+7. The lack of "Read" on the last sent message when a reply exists doesn't make any sense.
