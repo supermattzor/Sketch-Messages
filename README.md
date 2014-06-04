@@ -10,9 +10,9 @@ Known Issues
 
 *Some of this is me still not being entirely comfortable in Sketch and some is me putting off the experiementation time to figure some of it out.*
 
-# Missing compose icon
-# Current message title bar color is off
-# Gradient (and probably color) of blue messages is off
-# Window shadow is off
-# Right side of menu bar is empty
-# Hipsum sucks
+1. Missing compose icon
+2. Current message title bar color is off
+3. Gradient (and probably color) of blue messages is off
+4. Window shadow is off
+5. Right side of menu bar is empty
+6. Hipsum sucks
